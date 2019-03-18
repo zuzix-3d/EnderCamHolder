@@ -2,6 +2,10 @@
 
 After testing available camera holders, we decided to design our own to fit our needs how to mount camera. So if you like or have spare action camera like GoPro, SJcam, Xiaomi Yi or other similar camera, this camera mount is right for you. 
 
+<p align="center">
+ <img src="https://github.com/zuzix-3d/EnderCamHolder/blob/master/images/cam_holder_front.png">
+</p>
+
 ## Printing
 
 We recommend to print it from PET-G filament, witch 10% infill and 0.16 layer height. Motor cover needs support from inside, but it is easy to remove it.
@@ -22,7 +26,3 @@ We recommend to print it from PET-G filament, witch 10% infill and 0.16 layer he
 **Enjoy your new camera mount and time/octolapses**
 
 ## Happy 3d printing :)
-
-<p align="center">
- <img src="https://github.com/zuzix-3d/EnderCamHolder/blob/master/images/cam_holder_front.png">
-</p>
